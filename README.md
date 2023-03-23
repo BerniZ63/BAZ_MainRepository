@@ -1,3 +1,3 @@
-# BAZ_MainRepository
-Main catalog of BAZ Repository
+# BerniZ63-patch-1 is the branch of BAZ_MainRepository
+branch of BAZ_MainRepository
 tbc ....
